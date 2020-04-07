@@ -12,7 +12,20 @@ Semi-parameter
 Non-parameter
 
 
-## Chapter 3
+### Chapter 3
 
 Beyesian
 Liklihood
+
+
+## Test
+
+### Multiple Test
+
+- P value test
+- Naive Provedure
+- Bonferoni procedure
+- Sidak Procedure
+- Holm Procedure
+- Simes Procedure
+- Benjamini Hochberg
